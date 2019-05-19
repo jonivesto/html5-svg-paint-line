@@ -1,0 +1,13 @@
+body {
+    background-color: #000;
+    overflow: hidden;
+    cursor: crosshair;
+}
+
+#info {
+  position: fixed;
+  top: 10px;
+  right: 10px;  
+  color: white;
+  font-family: Consolas;
+}
